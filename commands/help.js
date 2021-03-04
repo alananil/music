@@ -10,7 +10,7 @@ module.exports = {
     let helpEmbed = new MessageEmbed()
       .setTitle(`${message.client.user.username} Help`)
       .setDescription("List of all commands")
-      .setColor("#F8AA2A")
+      .setColor("#FFFFFF")
       .setFooter(`Bot Made BY.TOM YT #4545 | GITHUB.COM ALAN ANIL`);
 
     commands.forEach((cmd) => {
