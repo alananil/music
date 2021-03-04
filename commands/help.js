@@ -11,7 +11,7 @@ module.exports = {
       .setTitle(`${message.client.user.username} Help`)
       .setDescription("List of all commands")
       .setColor("#F8AA2A")
-      .setFooter(`Bot Made By •OofyOofoof•#2018 | github.com/BlackKnight683`);
+      .setFooter(`Bot Made BY.TOM YT #4545 | GITHUB.COM ALAN ANIL`);
 
     commands.forEach((cmd) => {
       helpEmbed.addField(
